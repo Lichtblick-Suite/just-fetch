@@ -1,13 +1,13 @@
-# @foxglove/just-fetch
+# @lichtblick/just-fetch
 
 Isomorphic ponyfill wrapping native browser fetch and node-fetch.
 
-[![npm version](https://img.shields.io/npm/v/@foxglove/just-fetch.svg?style=flat)](https://www.npmjs.com/package/@foxglove/just-fetch)
+[![npm version](https://img.shields.io/npm/v/@lichtblick/just-fetch.svg?style=flat)](https://www.npmjs.com/package/@lichtblick/just-fetch)
 
 ### Usage
 
 ```ts
-import fetch from "@foxglove/just-fetch";
+import fetch from "@lichtblick/just-fetch";
 ```
 
 Usage is the same whether you are targeting browsers or node.js. The browser
@@ -16,7 +16,7 @@ target returns the native `window.fetch` implementation, and in node.js the
 
 ## License
 
-@foxglove/just-fetch is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+@lichtblick/just-fetch is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Releasing
 
