@@ -1,2 +1,2 @@
-const fetch = globalThis.fetch;
+declare const fetch: typeof globalThis.fetch;
 export default fetch;
