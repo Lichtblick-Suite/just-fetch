@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["plugin:@lichtblick/base"],
+  extends: ["plugin:@foxglove/base"],
   env: {
     browser: true,
     es2020: true,
